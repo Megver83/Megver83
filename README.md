@@ -8,9 +8,13 @@
 [![Discord Badge](https://img.shields.io/badge/Discord-Megver83-blue?style=flat-square&logo=discord)](https://discord.com/users/817488629341356083)
 [![GitLab Badge](https://img.shields.io/badge/GitLab-Megver83-blue?style=flat-square&logo=gitlab)](https://gitlab.com/Megver83)
 
+<p align="center">
+  <img src="Megver83_ChatGPT.gif" />
+</p>
+
 ---
 
-I'm a student of Computer Engineering at Universidad Católica del Norte in Chile, passionate about Pythonic programming, backend development, and contributing to Free/Libre Open Source Software (FLOSS).
+I'm a student of Computer Engineering at [Universidad Católica del Norte](https://www.ucn.cl/) in Chile, passionate about Pythonic programming, backend development, and contributing to Free/Libre Open Source Software (FLOSS).
 
 ### Technologies and Tools
 
