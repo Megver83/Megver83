@@ -39,14 +39,14 @@ I'm a Computer Engineering graduate from [Universidad Católica del Norte](https
 [![MariaDB Badge](https://img.shields.io/badge/-MariaDB-003546?style=flat-square&logo=mariadb&logoColor=white)](https://mariadb.org/)
 [![Redis Badge](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)](https://redis.io/)
 [![SQLite Badge](https://img.shields.io/badge/-SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
-[![Qdrant Badge](https://img.shields.io/badge/-Qdrant-6A1B9A?style=flat-square)](https://qdrant.tech/)
+[![Qdrant Badge](https://img.shields.io/badge/-Qdrant-6A1B9A?style=flat-square&logo=qdrant&logoColor=white)](https://qdrant.tech/)
 
 **DevOps & Infrastructure**
 [![Docker Badge](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Kubernetes Badge](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
 [![Linux Badge](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)](https://www.linux.org/)
-[![Caddy Badge](https://img.shields.io/badge/-Caddy-007BFF?style=flat-square)](https://caddyserver.com/)
-[![Traefik Badge](https://img.shields.io/badge/-Traefik-0099CC?style=flat-square)](https://traefik.io/)
+[![Caddy Badge](https://img.shields.io/badge/-Caddy-007BFF?style=flat-square&logo=caddy&logoColor=white)](https://caddyserver.com/)
+[![Traefik Badge](https://img.shields.io/badge/-Traefik-0099CC?style=flat-square&logo=traefikproxy&logoColor=white)](https://traefik.io/)
 
 **Automation & AI**
 [![n8n Badge](https://img.shields.io/badge/-n8n-%23046?style=flat-square&logo=n8n&logoColor=white)](https://n8n.io/)
@@ -60,10 +60,10 @@ I'm a Computer Engineering graduate from [Universidad Católica del Norte](https
 [![React Native Badge](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)](https://reactnative.dev/)
 
 **Tools**
-[![Visual Studio Code Badge](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-[![Claude Code Badge](https://img.shields.io/badge/-Claude%20Code-D97706?style=flat-square)](https://claude.ai/code)
-[![OpenCode Badge](https://img.shields.io/badge/-OpenCode-000000?style=flat-square)](https://opencode.ai/)
-[![Hermes Badge](https://img.shields.io/badge/-Hermes-000000?style=flat-square)](https://hermes.dev/)
+[![VSCodium Badge](https://img.shields.io/badge/-VSCodium-007ACC?style=flat-square&logo=vscodium&logoColor=white)](https://vscodium.com/)
+[![Claude Code Badge](https://img.shields.io/badge/-Claude%20Code-D97706?style=flat-square&logo=claudecode&logoColor=white)](https://claude.ai/code)
+[![OpenCode Badge](https://img.shields.io/badge/-OpenCode-000000?style=flat-square&logo=opencode&logoColor=white)](https://opencode.ai/)
+[![Hermes Badge](https://img.shields.io/badge/-Hermes-4A90E2?style=flat-square&logo=hermes&logoColor=white)](https://hermes.dev/)
 [![Git Badge](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
 [![Bash Badge](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/)
