@@ -8,9 +8,14 @@
 [![Discord Badge](https://img.shields.io/badge/Discord-Megver83-blue?style=flat-square&logo=discord)](https://discord.com/users/817488629341356083)
 [![GitLab Badge](https://img.shields.io/badge/GitLab-Megver83-blue?style=flat-square&logo=gitlab)](https://gitlab.com/Megver83)
 
+<details>
+<summary>👋 Click to see my animated greeting</summary>
+
 <p align="center">
-  <img src="Megver83_ChatGPT.gif" />
+  <img src="Megver83_ChatGPT.gif" alt="Megver83 greeting" />
 </p>
+
+</details>
 
 ---
 
@@ -18,39 +23,58 @@ I'm a Computer Engineering graduate from [Universidad Católica del Norte](https
 
 ### Technologies and Tools
 
-[![Git Badge](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
-[![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/)
-[![GitLab Badge](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab&logoColor=white)](https://gitlab.com/)
-[![Linux Badge](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)](https://www.linux.org/)
-[![Nextcloud Badge](https://img.shields.io/badge/-Nextcloud-0082C9?style=flat-square&logo=nextcloud&logoColor=white)](https://nextcloud.com/)
-[![Apache2 Badge](https://img.shields.io/badge/-Apache2-D22128?style=flat-square&logo=apache&logoColor=white)](https://httpd.apache.org/)
+**Languages**
+[![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+[![TypeScript Badge](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![JavaScript Badge](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+**Backend & APIs**
+[![NestJS Badge](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)](https://nestjs.com/)
+[![FastAPI Badge](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
+[![Flask Badge](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
+
+**Databases**
 [![PostgreSQL Badge](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![MongoDB Badge](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![MariaDB Badge](https://img.shields.io/badge/-MariaDB-003546?style=flat-square&logo=mariadb&logoColor=white)](https://mariadb.org/)
 [![Redis Badge](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)](https://redis.io/)
 [![SQLite Badge](https://img.shields.io/badge/-SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
-[![NestJS Badge](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)](https://nestjs.com/)
-[![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
-[![Flask Badge](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
-[![FastAPI Badge](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
-[![Arch Linux Badge](https://img.shields.io/badge/-Arch%20Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)](https://www.archlinux.org/)
-[![JavaScript Badge](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![TypeScript Badge](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Qdrant Badge](https://img.shields.io/badge/-Qdrant-6A1B9A?style=flat-square)](https://qdrant.tech/)
+
+**DevOps & Infrastructure**
+[![Docker Badge](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Kubernetes Badge](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
+[![Linux Badge](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)](https://www.linux.org/)
+[![Caddy Badge](https://img.shields.io/badge/-Caddy-007BFF?style=flat-square)](https://caddyserver.com/)
+[![Traefik Badge](https://img.shields.io/badge/-Traefik-0099CC?style=flat-square)](https://traefik.io/)
+
+**Automation & AI**
+[![n8n Badge](https://img.shields.io/badge/-n8n-%23046?style=flat-square&logo=n8n&logoColor=white)](https://n8n.io/)
+[![Supabase Badge](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)](https://supabase.com/)
+[![MCP Badge](https://img.shields.io/badge/-MCP-000000?style=flat-square)](https://modelcontextprotocol.io/)
+
+**Frontend**
 [![Angular Badge](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)](https://angular.io/)
 [![Next.js Badge](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)](https://nextjs.org/)
 [![React Badge](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)](https://react.dev/)
 [![React Native Badge](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)](https://reactnative.dev/)
-[![Rust Badge](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)](https://www.rust-lang.org/)
+
+**Tools**
+[![Visual Studio Code Badge](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+[![Claude Code Badge](https://img.shields.io/badge/-Claude%20Code-D97706?style=flat-square)](https://claude.ai/code)
+[![OpenCode Badge](https://img.shields.io/badge/-OpenCode-000000?style=flat-square)](https://opencode.ai/)
+[![Hermes Badge](https://img.shields.io/badge/-Hermes-000000?style=flat-square)](https://hermes.dev/)
+[![Git Badge](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
+[![Bash Badge](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
+[![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/)
+[![GitLab Badge](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab&logoColor=white)](https://gitlab.com/)
+[![Nextcloud Badge](https://img.shields.io/badge/-Nextcloud-0082C9?style=flat-square&logo=nextcloud&logoColor=white)](https://nextcloud.com/)
+[![Apache2 Badge](https://img.shields.io/badge/-Apache2-D22128?style=flat-square&logo=apache&logoColor=white)](https://httpd.apache.org/)
+[![Arch Linux Badge](https://img.shields.io/badge/-Arch%20Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)](https://www.archlinux.org/)
 [![Google Colab Badge](https://img.shields.io/badge/-Google%20Colab-F9AB00?style=flat-square&logo=google-colab&logoColor=white)](https://colab.research.google.com/)
 [![Jupyter Badge](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)](https://jupyter.org/)
-[![Visual Studio Code Badge](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 [![Raspberry Pi Badge](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white)](https://www.raspberrypi.org/)
 [![Debian Badge](https://img.shields.io/badge/-Debian-A81D33?style=flat-square&logo=debian&logoColor=white)](https://www.debian.org/)
-[![Docker Badge](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
-[![Kubernetes Badge](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
-[![Supabase Badge](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)](https://supabase.com/)
-[![n8n Badge](https://img.shields.io/badge/-n8n-%23046?style=flat-square&logo=n8n&logoColor=white)](https://n8n.io/)
-[![Bash Badge](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
 
 ### About Me
 
