@@ -14,7 +14,7 @@
 
 ---
 
-I'm a student of Computer Engineering at [Universidad Católica del Norte](https://www.ucn.cl/) in Chile, passionate about Pythonic programming, backend development, and contributing to Free/Libre Open Source Software (FLOSS).
+I'm a Computer Engineering graduate from [Universidad Católica del Norte](https://www.ucn.cl/) in Chile, passionate about Pythonic programming, backend development, and contributing to Free/Libre Open Source Software (FLOSS).
 
 ### Technologies and Tools
 
@@ -25,32 +25,45 @@ I'm a student of Computer Engineering at [Universidad Católica del Norte](https
 [![Nextcloud Badge](https://img.shields.io/badge/-Nextcloud-0082C9?style=flat-square&logo=nextcloud&logoColor=white)](https://nextcloud.com/)
 [![Apache2 Badge](https://img.shields.io/badge/-Apache2-D22128?style=flat-square&logo=apache&logoColor=white)](https://httpd.apache.org/)
 [![PostgreSQL Badge](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![MongoDB Badge](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![MariaDB Badge](https://img.shields.io/badge/-MariaDB-003546?style=flat-square&logo=mariadb&logoColor=white)](https://mariadb.org/)
+[![Redis Badge](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)](https://redis.io/)
+[![SQLite Badge](https://img.shields.io/badge/-SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
 [![NestJS Badge](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)](https://nestjs.com/)
 [![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 [![Flask Badge](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
+[![FastAPI Badge](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
 [![Arch Linux Badge](https://img.shields.io/badge/-Arch%20Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)](https://www.archlinux.org/)
 [![JavaScript Badge](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![TypeScript Badge](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Angular Badge](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)](https://angular.io/)
+[![Next.js Badge](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)](https://nextjs.org/)
+[![React Badge](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)](https://react.dev/)
+[![React Native Badge](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)](https://reactnative.dev/)
+[![Rust Badge](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)](https://www.rust-lang.org/)
 [![Google Colab Badge](https://img.shields.io/badge/-Google%20Colab-F9AB00?style=flat-square&logo=google-colab&logoColor=white)](https://colab.research.google.com/)
 [![Jupyter Badge](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)](https://jupyter.org/)
+[![Visual Studio Code Badge](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 [![Raspberry Pi Badge](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white)](https://www.raspberrypi.org/)
 [![Debian Badge](https://img.shields.io/badge/-Debian-A81D33?style=flat-square&logo=debian&logoColor=white)](https://www.debian.org/)
 [![Docker Badge](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Kubernetes Badge](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
+[![Supabase Badge](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)](https://supabase.com/)
+[![n8n Badge](https://img.shields.io/badge/-n8n-%23046?style=flat-square&logo=n8n&logoColor=white)](https://n8n.io/)
 [![Bash Badge](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
 
 ### About Me
 
-- 🎓 Currently in my fourth year of university
+- 🎓 Graduated in Computer Engineering from Universidad Católica del Norte in Chile
 - 💻 Passionate about backend development and DevOps
-- 🥋 3rd kyu judoka, that is green belt
+- 🥋 2nd kyu judoka, that is blue belt
 - 🌐 Native Spanish speaker, fluent in English since age 10
 - 🐧 Advocate for and user of [FSDG-compliant GNU/Linux distributions](https://www.gnu.org/distros/free-distros.html)
 - 🖥️ [Developer at Parabola GNU/Linux-libre](https://www.parabola.nu/people/hackers/#megver83) since 2017
 
 ---
 
-![Megver83's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Megver83&show_icons=true)
+![Megver83's GitHub Stats](https://github-stats-extended.vercel.app/api?username=Megver83&show_icons=true)
 
 [![Last Commit](https://img.shields.io/github/last-commit/Megver83/Megver83?style=flat-square)](https://github.com/Megver83/Megver83/commits/main)
 [![Visits](https://komarev.com/ghpvc/?username=Megver83&style=flat-square&color=blueviolet)](https://github.com/Megver83)
