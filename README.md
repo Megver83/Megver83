@@ -79,6 +79,7 @@ I'm a Computer Engineering graduate from [Universidad Católica del Norte](https
 - 🎓 Graduated in Computer Engineering from Universidad Católica del Norte in Chile
 - 💻 Passionate about backend development and DevOps
 - 🥋 2nd kyu judoka, that is blue belt
+- 🎸 Rock musician
 - 🌐 Native Spanish speaker, fluent in English since age 10
 - 🐧 Advocate for and user of [FSDG-compliant GNU/Linux distributions](https://www.gnu.org/distros/free-distros.html)
 - 🖥️ [Developer at Parabola GNU/Linux-libre](https://www.parabola.nu/people/hackers/#megver83) since 2017
