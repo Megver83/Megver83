@@ -63,7 +63,6 @@ I'm a Computer Engineering graduate from [Universidad Católica del Norte](https
 [![VSCodium Badge](https://img.shields.io/badge/-VSCodium-007ACC?style=flat-square&logo=vscodium&logoColor=white)](https://vscodium.com/)
 [![Claude Code Badge](https://img.shields.io/badge/-Claude%20Code-D97706?style=flat-square&logo=claudecode&logoColor=white)](https://claude.ai/code)
 [![OpenCode Badge](https://img.shields.io/badge/-OpenCode-000000?style=flat-square&logo=opencode&logoColor=white)](https://opencode.ai/)
-[![Hermes Badge](https://img.shields.io/badge/-Hermes-4A90E2?style=flat-square&logo=hermes&logoColor=white)](https://hermes.dev/)
 [![Git Badge](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
 [![Bash Badge](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/)
