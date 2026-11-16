@@ -51,7 +51,7 @@ I'm a Computer Engineering graduate from [Universidad Católica del Norte](https
 **Automation & AI**
 [![n8n Badge](https://img.shields.io/badge/-n8n-%23046?style=flat-square&logo=n8n&logoColor=white)](https://n8n.io/)
 [![Supabase Badge](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)](https://supabase.com/)
-[![MCP Badge](https://img.shields.io/badge/-MCP-000000?style=flat-square)](https://modelcontextprotocol.io/)
+[![MCP Badge](https://img.shields.io/badge/-MCP-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white)](https://modelcontextprotocol.io/)
 
 **Frontend**
 [![Angular Badge](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)](https://angular.io/)
