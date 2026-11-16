@@ -32,6 +32,7 @@ I'm a Computer Engineering graduate from [Universidad Católica del Norte](https
 [![NestJS Badge](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)](https://nestjs.com/)
 [![FastAPI Badge](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
 [![Flask Badge](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
+[![Supabase Badge](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)](https://supabase.com/)
 
 **Databases**
 [![PostgreSQL Badge](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
@@ -53,7 +54,6 @@ I'm a Computer Engineering graduate from [Universidad Católica del Norte](https
 
 **Automation & AI**
 [![n8n Badge](https://img.shields.io/badge/-n8n-%23046?style=flat-square&logo=n8n&logoColor=white)](https://n8n.io/)
-[![Supabase Badge](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)](https://supabase.com/)
 [![MCP Badge](https://img.shields.io/badge/-MCP-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white)](https://modelcontextprotocol.io/)
 
 **Frontend**
