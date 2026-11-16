@@ -62,6 +62,7 @@ I'm a Computer Engineering graduate from [Universidad Católica del Norte](https
 [![React Native Badge](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)](https://reactnative.dev/)
 
 **Tools**
+[![Ardour Badge](https://img.shields.io/badge/-Ardour-F04E23?style=flat-square&logo=ardour&logoColor=white)](https://ardour.org/)
 [![VSCodium Badge](https://img.shields.io/badge/-VSCodium-007ACC?style=flat-square&logo=vscodium&logoColor=white)](https://vscodium.com/)
 [![Claude Code Badge](https://img.shields.io/badge/-Claude%20Code-D97706?style=flat-square&logo=claudecode&logoColor=white)](https://claude.ai/code)
 [![OpenCode Badge](https://img.shields.io/badge/-OpenCode-000000?style=flat-square&logo=opencode&logoColor=white)](https://opencode.ai/)
@@ -79,7 +80,7 @@ I'm a Computer Engineering graduate from [Universidad Católica del Norte](https
 - 🎓 Graduated in Computer Engineering from Universidad Católica del Norte in Chile
 - 💻 Passionate about backend development and DevOps
 - 🥋 2nd kyu judoka, that is blue belt
-- 🎸 Rock musician
+- 🎸 Rock musician, composer and producer (amateur)
 - 🌐 Native Spanish speaker, fluent in English since age 10
 - 🐧 Advocate for and user of [FSDG-compliant GNU/Linux distributions](https://www.gnu.org/distros/free-distros.html)
 - 🖥️ [Developer at Parabola GNU/Linux-libre](https://www.parabola.nu/people/hackers/#megver83) since 2017
