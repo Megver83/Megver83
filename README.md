@@ -63,6 +63,8 @@ I'm a Computer Engineering graduate from [Universidad Católica del Norte](https
 
 **Tools**
 [![Ardour Badge](https://img.shields.io/badge/-Ardour-F04E23?style=flat-square&logo=ardour&logoColor=white)](https://ardour.org/)
+[![Audacity Badge](https://img.shields.io/badge/-Audacity-3776AB?style=flat-square&logo=audacity&logoColor=white)](https://www.audacityteam.org/)
+[![VLC Badge](https://img.shields.io/badge/-VLC-0088CC?style=flat-square&logo=vlcmediaplayer&logoColor=white)](https://www.videolan.org/)
 [![VSCodium Badge](https://img.shields.io/badge/-VSCodium-007ACC?style=flat-square&logo=vscodium&logoColor=white)](https://vscodium.com/)
 [![Claude Code Badge](https://img.shields.io/badge/-Claude%20Code-D97706?style=flat-square&logo=claudecode&logoColor=white)](https://claude.ai/code)
 [![OpenCode Badge](https://img.shields.io/badge/-OpenCode-000000?style=flat-square&logo=opencode&logoColor=white)](https://opencode.ai/)
