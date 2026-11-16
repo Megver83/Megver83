@@ -47,6 +47,9 @@ I'm a Computer Engineering graduate from [Universidad Católica del Norte](https
 [![Linux Badge](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)](https://www.linux.org/)
 [![Caddy Badge](https://img.shields.io/badge/-Caddy-007BFF?style=flat-square&logo=caddy&logoColor=white)](https://caddyserver.com/)
 [![Traefik Badge](https://img.shields.io/badge/-Traefik-0099CC?style=flat-square&logo=traefikproxy&logoColor=white)](https://traefik.io/)
+[![Apache2 Badge](https://img.shields.io/badge/-Apache2-D22128?style=flat-square&logo=apache&logoColor=white)](https://httpd.apache.org/)
+[![Arch Linux Badge](https://img.shields.io/badge/-Arch%20Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)](https://www.archlinux.org/)
+[![Debian Badge](https://img.shields.io/badge/-Debian-A81D33?style=flat-square&logo=debian&logoColor=white)](https://www.debian.org/)
 
 **Automation & AI**
 [![n8n Badge](https://img.shields.io/badge/-n8n-%23046?style=flat-square&logo=n8n&logoColor=white)](https://n8n.io/)
@@ -67,12 +70,9 @@ I'm a Computer Engineering graduate from [Universidad Católica del Norte](https
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/)
 [![GitLab Badge](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab&logoColor=white)](https://gitlab.com/)
 [![Nextcloud Badge](https://img.shields.io/badge/-Nextcloud-0082C9?style=flat-square&logo=nextcloud&logoColor=white)](https://nextcloud.com/)
-[![Apache2 Badge](https://img.shields.io/badge/-Apache2-D22128?style=flat-square&logo=apache&logoColor=white)](https://httpd.apache.org/)
-[![Arch Linux Badge](https://img.shields.io/badge/-Arch%20Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)](https://www.archlinux.org/)
 [![Google Colab Badge](https://img.shields.io/badge/-Google%20Colab-F9AB00?style=flat-square&logo=google-colab&logoColor=white)](https://colab.research.google.com/)
 [![Jupyter Badge](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)](https://jupyter.org/)
 [![Raspberry Pi Badge](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white)](https://www.raspberrypi.org/)
-[![Debian Badge](https://img.shields.io/badge/-Debian-A81D33?style=flat-square&logo=debian&logoColor=white)](https://www.debian.org/)
 
 ### About Me
 
